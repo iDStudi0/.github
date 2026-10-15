@@ -7,7 +7,7 @@
 <br>
 <br>
 
-**Le studio qui développe [Identity RP](https://identityrp.fr), serveur GTA V roleplay francophone.**
+**Le studio qui développe [Identity](https://identityrp.fr), serveur GTA V roleplay francophone.**
 
 <br>
 
