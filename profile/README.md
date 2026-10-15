@@ -31,7 +31,7 @@ Nous concevons et maintenons en interne l'intégralité de la plateforme qui fai
 
 Identity RP est un serveur **sélectif**. L'accès passe par une whitelist exigeante :
 
-- **18 ans et plus**, sans exception
+- **20 ans et plus**, sans exception
 - **Candidature écrite**, étudiée individuellement
 - **Entretien oral** avant validation
 
